@@ -1,0 +1,10 @@
+*.md
+!README.md
+*.npz
+*.csv
+.git
+**/test_demo
+test_demo/**/*
+test_models/**/*
+checkpoints/efficient_sam_vitt.pt
+checkpoints/medsam_lite_encoder_pet_micro_sharp_epoch50_lr0.00005.pth
